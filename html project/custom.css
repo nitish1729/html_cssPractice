@@ -1,0 +1,16 @@
+body { 
+	font-family: 'Montserrat', sans-serif;
+}
+.image1 {
+	background: url(wp.jpg) no-repeat;
+	height: 100vh;
+	background-size: cover;
+}
+.hero{
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	 transform: translate(-50%,-50%);
+	  
+}
